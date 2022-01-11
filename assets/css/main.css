@@ -74,8 +74,8 @@ input, select, textarea {
 /* Education */
 .education article {
 	border-top: solid 3px #f4f4f4;
-	margin-bottom: 2.25em;
-	padding-top: 2.25em;
+	margin-bottom: 1.5em;
+	padding-top: 1.5em;
 }
 
 	.education article:first-child {
@@ -85,7 +85,7 @@ input, select, textarea {
 
 	.education article .image {
 		display: inline-block;
-		padding-right: 2.5em;
+		padding-right: 1.5em;
 		vertical-align: middle;
 		width: 28%;
 	}
