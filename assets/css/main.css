@@ -85,7 +85,7 @@ input, select, textarea {
 
 	.education article .image {
 		display: inline-block;
-		padding-right: 0em;
+		padding-right: 1em;
 		vertical-align: middle;
 		width: 25%;
 	}
@@ -98,7 +98,7 @@ input, select, textarea {
 	.education article .inner {
 		display: inline-block;
 		vertical-align: middle;
-		width: 75%;
+		width: 74%;
 	}
 
 		.education article .inner > :last-child {
