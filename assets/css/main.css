@@ -117,6 +117,7 @@ input, select, textarea {
 	}
 
 	.experience article .image {
+		object-fit: cover;
 		display: inline-block;
 		padding-right: 1em;
 		vertical-align: middle;
@@ -124,6 +125,7 @@ input, select, textarea {
 	}
 
 		.experience article .image img {
+			object-fit: cover;
 			display: block;
 			width: 100%;
 		}
