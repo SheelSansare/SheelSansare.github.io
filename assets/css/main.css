@@ -71,7 +71,39 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
+/* Education */
+.education article {
+	border-top: solid 3px #f4f4f4;
+	margin-bottom: 2.25em;
+	padding-top: 2.25em;
+}
 
+	.education article:first-child {
+		border-top: 0;
+		padding-top: 0;
+	}
+
+	.education article .image {
+		display: inline-block;
+		padding-right: 2.5em;
+		vertical-align: middle;
+		width: 48%;
+	}
+
+		.education article .image img {
+			display: block;
+			width: 100%;
+		}
+
+	.education article .inner {
+		display: inline-block;
+		vertical-align: middle;
+		width: 50%;
+	}
+
+		.education article .inner > :last-child {
+			margin-bottom: 0;
+		}
 /* Basic */
 
 	html {
