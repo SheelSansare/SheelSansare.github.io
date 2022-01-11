@@ -98,7 +98,7 @@ input, select, textarea {
 	.education article .inner {
 		display: inline-block;
 		vertical-align: middle;
-		width: 78%;
+		width: 75%;
 	}
 
 		.education article .inner > :last-child {
