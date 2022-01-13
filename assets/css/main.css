@@ -3253,6 +3253,32 @@ input, select, textarea {
 				display: block;
 				width: 100%;
 			}
+		/* Education */
+
+		.education article .image {
+			display: block;
+			margin: 0 0 2.25em 0;
+			padding-right: 0;
+			width: 100%;
+		}
+
+		.education article .inner {
+			display: block;
+			width: 100%;
+		}
+		/* Experience */
+
+		.experience article .image {
+			display: block;
+			margin: 0 0 2.25em 0;
+			padding-right: 0;
+			width: 100%;
+		}
+
+		.experience article .inner {
+			display: block;
+			width: 100%;
+		}	
 
 		/* Header */
 
