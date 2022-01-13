@@ -99,11 +99,14 @@ input, select, textarea {
 		display: inline-block;
 		vertical-align: middle;
 		width: 74%;
+		
+	}
+	.experience article h5 {
 		padding-left: 1em;
 	}
-	/* .education article li {
+	.education article li {
 		padding-left: 1em;
-	} */
+	}
 
 		.education article .inner > :last-child {
 			margin-bottom: 0;
