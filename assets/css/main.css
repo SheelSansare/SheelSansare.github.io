@@ -2753,7 +2753,7 @@ input, select, textarea {
 			vertical-align: middle;
 			width: 74%;
 		}
-		.features article button {
+		.features article view {
 			padding: 0;
 			height: 10px;
 			border: none;
