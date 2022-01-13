@@ -2755,7 +2755,8 @@ input, select, textarea {
 		}
 		.features article view {
 			padding: 0;
-			height: 10px;
+			height: 1em;
+			width: 5em;
 			border: none;
 			background: #D6DBD2;
 		}
