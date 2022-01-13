@@ -100,6 +100,9 @@ input, select, textarea {
 		vertical-align: middle;
 		width: 74%;
 	}
+	.education article li {
+		padding-left: 2em;
+	}
 
 		.education article .inner > :last-child {
 			margin-bottom: 0;
