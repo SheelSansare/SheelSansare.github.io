@@ -2754,6 +2754,8 @@ input, select, textarea {
 			width: 74%;
 		}
 		.features article button {
+			padding: 0;
+			height: 10px;
 			border: none;
 			background: #D6DBD2;
 		}
