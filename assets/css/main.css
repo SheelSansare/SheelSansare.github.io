@@ -99,10 +99,11 @@ input, select, textarea {
 		display: inline-block;
 		vertical-align: middle;
 		width: 74%;
-	}
-	.education article li {
 		padding-left: 1em;
 	}
+	/* .education article li {
+		padding-left: 1em;
+	} */
 
 		.education article .inner > :last-child {
 			margin-bottom: 0;
