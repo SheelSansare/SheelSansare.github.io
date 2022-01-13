@@ -2753,6 +2753,10 @@ input, select, textarea {
 			vertical-align: middle;
 			width: 74%;
 		}
+		.features article button {
+			border: none;
+			background: #D6DBD2;
+		}
 
 			.features article .inner > :last-child {
 				margin-bottom: 0;
