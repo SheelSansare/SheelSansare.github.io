@@ -138,10 +138,11 @@ input, select, textarea {
 		display: inline-block;
 		vertical-align: middle;
 		width: 74%;
-	}
-	.experience article li {
 		padding-left: 1em;
 	}
+	/* .experience article li {
+		padding-left: 1em;
+	} */
 
 		.experience article .inner > :last-child {
 			margin-bottom: 0;
